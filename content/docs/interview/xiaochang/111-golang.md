@@ -1,6 +1,6 @@
 ---
 title: "111-深信服Golang一面"
-category: "zhongchang"
+category: "xiaochang"
 difficulty: "medium"
 tags:
   - "Go"
